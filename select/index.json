@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "DEXCORE 「Place where we belong」 Official Music Video",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-11T13:58:38.330121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Place Where We Belong",
+      "artist": "ELYAZ",
+      "has_synced": true,
+      "path": "select/01_The_Place_Where_We_Belong_ELYAZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Place where we belong",
+      "artist": "Dexcore",
+      "has_synced": false,
+      "path": "select/02_Place_where_we_belong_Dexcore.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Place Where We Belong",
+      "artist": "ELYAZ",
+      "has_synced": true,
+      "path": "select/03_The_Place_Where_We_Belong_ELYAZ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Out of the Darkness (A Place Where We Belong)",
+      "artist": "Original West End Cast of Everybody's Talking About Jamie",
+      "has_synced": true,
+      "path": "select/04_Out_of_the_Darkness_(A_Place_Where_We_Belong)_Original_West_End_Cast_of_Everybody's_Talking_About_Jamie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Out of the Darkness (A Place Where We Belong)",
+      "artist": "Original West End Cast of Everybody's Talking About Jamie; John McCrea",
+      "has_synced": true,
+      "path": "select/05_Out_of_the_Darkness_(A_Place_Where_We_Belong)_Original_West_End_Cast_of_Everybody's_Talking_About_Jamie;_John_McCrea.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Place where we belong",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_Place_where_we_belong_DEXCORE.txt"
+    }
+  ]
+}
